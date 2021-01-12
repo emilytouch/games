@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WhiteBox.data.unityweb",
+"asmCodeUrl": "WhiteBox.asm.code.unityweb",
+"asmMemoryUrl": "WhiteBox.asm.memory.unityweb",
+"asmFrameworkUrl": "WhiteBox.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
